@@ -11,7 +11,7 @@ static const char *prompt      = NULL;      /* -p  option; prompt to the left of
 #include "/home/Saatwat/.cache/wal/colors-wal-dmenu.h"
 
 /* -l option; if nonzero, dmenu uses vertical list with given number of lines */
-static unsigned int lines      = 420;
+static unsigned int lines      = 15;
 
 /*
  * Characters not considered part of a word while deleting words
